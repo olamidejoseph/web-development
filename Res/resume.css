@@ -1,0 +1,30 @@
+*{
+    border: 1px
+}
+
+body{
+    margin:auto
+}
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    border-color: blanchedalmond;
+    border-style: outset;
+    opacity: 1;
+    margin: auto;
+    display: block;
+}
+h1,p{
+    text-align: center;
+    margin: 8px;
+}
+#background{
+    background-color: blanchedalmond;
+}
+.cover{
+    height: 200px;
+    width: 100%;
+    background-color: blueviolet;
+    background-image: url(./bg.png);
+}

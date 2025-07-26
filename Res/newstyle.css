@@ -1,0 +1,21 @@
+#second {
+    backface-visibility: black;
+     }
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ .code{
+    opacity: 0.4;
+}
+.code.big {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+}
+
+.t {
+    color: brown;
+}
+
+.name {
+    background-color: aqua;
+}

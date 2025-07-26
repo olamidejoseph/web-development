@@ -1,0 +1,35 @@
+.container{
+    max-width: 400px;
+    height: 250px;
+    margin: 40px;
+    padding: 100px;
+    background-color: cornsilk;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 10)
+}
+
+label{
+    border: 50px;
+    margin-bottom: 10px;
+    font-style: italic;
+    font-size: larger;
+}
+input[type="text"], input[type="bio"] {
+    width: 400px;
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    opacity: 1;
+    box-shadow: 1px;
+    justify-content: center;
+    background-color:antiquewhite;
+    
+}
+input[type="submit"]{
+    background-color:greenyellow ;
+    width: 30%;
+    border-radius: 50px;
+
+}

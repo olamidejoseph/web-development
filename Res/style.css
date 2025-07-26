@@ -1,0 +1,16 @@
+#second {
+    font-size: 100px;
+    font-family: cursive;
+    color: teal;
+    border: 6px solid red
+            }
+p {
+    text-decoration: underline;
+}
+ .code{
+    opacity: 0.4;
+}
+.code.big {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+}
